@@ -1,4 +1,3 @@
-# Diamonds-Dataset-EDA
 
 # Diamonds Dataset EDA
 - This notebook include:

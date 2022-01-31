@@ -1,4 +1,4 @@
-This repo includes the first portfolio project for Misk DSI.
+
 
 # Diamonds Dataset EDA
 - This notebook include:
